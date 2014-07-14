@@ -263,7 +263,7 @@ Namespace SampleCode
                 End If
             End Try
         End Sub
-        
+
 
         Private Function checkRequiredValues() As Boolean
             Try
